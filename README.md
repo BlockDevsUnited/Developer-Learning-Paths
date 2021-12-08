@@ -13,4 +13,4 @@ Join our [discord channel](https://discord.gg/K6v3NM7j) to discuss with other co
 * Bitcoin
 * Polkadot
 * Cardano
-* 
+* many more chains!

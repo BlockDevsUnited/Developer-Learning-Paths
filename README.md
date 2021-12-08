@@ -1,2 +1,10 @@
 # Developer-Learning-path
-Follow the learning path and become a Blockchain Developer
+Learning Paths for Blockchain Developers
+
+Join our discord channel to discuss with other community members - https://discord.gg/K6v3NM7j
+
+## Ethereum
+
+* [Deploy an ERC20 Token](https://github.com/BlockDevsUnited/TokenTutorial)
+* [Create a Basic dApp](https://github.com/BlockDevsUnited/BasicFrontEndTutorial)
+* [Deploy an NFT](https://github.com/BlockDevsUnited/NFT-Tutorial)

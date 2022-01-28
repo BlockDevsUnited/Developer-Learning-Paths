@@ -1,7 +1,7 @@
 # Developer-Learning-Paths
 Learning Paths for Blockchain Developers. 
 
-Join our [discord channel](https://discord.gg/K6v3NM7j) to discuss with other community members 
+Join our [discord channel](https://discord.gg/GQuW9Hducd) to discuss with other community members 
 
 ## Ethereum
 
